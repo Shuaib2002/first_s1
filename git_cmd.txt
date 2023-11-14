@@ -6,4 +6,12 @@
 
 4.git status
 
-5.
+5.git add git_cmd.txt
+
+6.git commit -m 'First Commit'
+
+7.git remote add origin https://github.com/Shuaib2002/first_s1.git
+
+8.git push -u origin master
+
+9.
