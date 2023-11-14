@@ -1,0 +1,9 @@
+1.git init
+
+2. git config user.name 'Shuaib2002'
+
+3.git config user.email 'shuaib20022002@gmail.com'
+
+4.git status
+
+5.
