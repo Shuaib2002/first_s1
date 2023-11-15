@@ -20,5 +20,6 @@
 
 11.git stash (to save changes on the current branch)
 
-12.qwerty
+12.qwerty uiop
+
 
