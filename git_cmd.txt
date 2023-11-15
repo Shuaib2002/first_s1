@@ -14,4 +14,6 @@
 
 8.git push -u origin master
 
-9.
+9.git pull
+
+10.git branch branch1(create branch)
